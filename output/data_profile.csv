@@ -1,0 +1,8 @@
+table,rows,columns,duplicate_rows,cells_missing,missing_pct
+orders,99441,8,0,4908,0.62
+items,112650,7,0,0,0.0
+payments,103886,5,0,0,0.0
+reviews,99224,7,0,145903,21.01
+customers,99441,5,0,0,0.0
+products,32951,9,0,2448,0.83
+category_map,71,2,0,0,0.0
